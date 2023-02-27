@@ -11,7 +11,7 @@ import image7 from '../images/tangerine.png'
 import image8 from '../images/koala.png'
 import image9 from '../images/holyPandas.png'
 import image10 from '../images/cherryRed.png'
-
+import logo from '../images/logo.png'
 
 const App = () => {
   const cardsData = [
@@ -80,6 +80,7 @@ const App = () => {
   return (
     <div className="app">
       <h1>Mechanical Keyboard Switches</h1>
+      <img className="logo" src={logo}></img>
       <CardsList cardsData={cardsData} />
     </div>
   );
