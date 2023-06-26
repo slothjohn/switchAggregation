@@ -1,26 +1,6 @@
-# Web Development Project 1 - *switchAggregator*
-
-Submitted by: **John Chen**
+ *switchAggregator*
 
 This web app: **Used react components and props to form a list of switches**
-
-Time spent: **8** hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
-
-- [x] **There is a unique theme for events or resources relevant to a specific community**
-- [x] **At least 10 unique resources or events are displayed in a responsive card format**
-
-The following **optional** features are implemented:
-
-- [ ] Buttons or links to a related resources are on each card component
-- [ ] The site is responsive for both desktop and mobile formats
-
-The following **additional** features are implemented:
-
-* [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
 
@@ -28,15 +8,12 @@ Here's a walkthrough of implemented required features:
 
 <img src='./p1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 [ScreenToGif](https://www.screentogif.com/) for Windows
 
-
 ## Notes
 
-Did not know how to efficiently create many cards. Made a card list component so that adding new cards only require adding a new input for card data.
-
+Did not know how to efficiently create many cards. Made a card list component so that adding new cards only requires adding a new input for card data.
 
 
 ## License
